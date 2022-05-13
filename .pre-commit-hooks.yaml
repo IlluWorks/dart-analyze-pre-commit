@@ -1,0 +1,5 @@
+-   id: dart-analyze
+    name: Dart Code Analyze
+    entry: run
+    language: script
+    files: \.dart$
