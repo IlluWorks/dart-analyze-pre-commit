@@ -1,3 +1,4 @@
 #!/usr/bin/env bash
 
-dart analyze
+# shellcheck disable=SC2068
+dart analyze $@
